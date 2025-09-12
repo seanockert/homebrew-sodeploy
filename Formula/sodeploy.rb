@@ -4,7 +4,6 @@ class Sodeploy < Formula
   url "https://github.com/seanockert/sodeploy/archive/refs/tags/v1.0.0.tar.gz"
   sha256 "901ceac2271863937a6e8ae9c2a993675256b22f54433718b925a17020411f7f"
   license "MIT"
-
   depends_on "jq"
   depends_on "curl"
 
