@@ -1,8 +1,8 @@
 class Sodeploy < Formula
   desc "Deploy a website from a local folder to your Cloudflare domain with one command: so"
   homepage "https://github.com/seanockert/sodeploy"
-  url "https://github.com/seanockert/sodeploy/archive/refs/tags/v1.0.0.tar.gz"
-  sha256 "901ceac2271863937a6e8ae9c2a993675256b22f54433718b925a17020411f7f"
+  url "https://github.com/seanockert/sodeploy/archive/refs/tags/v1.1.0.tar.gz"
+  sha256 "187e8b181c48026c71a47616eac98b0a7ab4a38327f3f9f5ef20402811596170"
   license "MIT"
   depends_on "jq"
   depends_on "curl"
